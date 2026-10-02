@@ -1,87 +1,43 @@
-# 🦎 Clutch0
+# Clutch0
 
-> **“You don’t win a war by chasing soldiers. You win it by cutting off the supply line.”**
+Clutch0 is an independent, evidence-driven public-learning project about invasive green iguana populations.
 
----
+## Mission
 
-## 🧠 What Is Clutch0?
+Clutch0 supports the complete eradication of invasive green iguana populations from ecosystems where those populations do not naturally belong, wherever eradication is ecologically appropriate, lawful, humane, and realistically achievable.
 
-**Clutch0** is a tactical, open-source strategy to stop invasive green iguanas/other species at their most vulnerable point: their eggs.
+Where eradication is not presently feasible, Clutch0 supports evidence-based population reduction, containment, prevention of further spread, protection of native species and ecosystems, and continued research into more effective management strategies.
 
-Instead of wasting time chasing adults, we **track dominant males**, locate nesting zones, and **remove egg clutches before they hatch**. It’s clean, efficient, scalable.
+This mission concerns invasive populations—not green iguanas within their native range, nor native, endemic, or genetically significant iguana populations that require conservation.
 
-We are currently targeting five regions where green iguanas have become a major threat:
-- 🇹🇼 Taiwan
-- 🇺🇸 Florida (USA)
-- 🇵🇷 Puerto Rico
-- 🇧🇸 The Bahamas
-- 🇨🇼 Dutch Caribbean
+## Evidence standard
 
-This plan was created to be **reproduced globally** and adapted to any invasive egg-laying species.
+The original project emphasized egg clutches and nesting areas. Reproductive-stage intervention is a question worth researching; it is not presented here as a validated protocol. We label material as:
 
----
+- **Established** — directly supported by a cited source.
+- **Developing** — informative but not enough to support a general conclusion.
+- **Hypothesis** — a testable question, not an operational recommendation.
+- **Unknown** — not adequately answered by the current evidence record.
 
-## 💣 Why Eggs?
+> The goal is not to prove Clutch0 right. The goal is to find what works.
 
-Green iguanas lay **20–70 eggs per clutch**, bury them, and abandon them.  
-With **incubation windows up to 90 days**, they provide the perfect opportunity for population control.
+> Number removed is not the same thing as success.
 
-✅ Eggs don’t move  
-✅ Eggs aren’t protected  
-✅ Eggs are the source of exponential growth
+## Boundaries
 
-This isn’t pest control. This is strategic reproductive collapse.
+- Management must be humane, lawful, locally authorized, and evidence-based.
+- Clutch0 does not publish wildlife-capture, nest-removal, or euthanasia instructions.
+- Regional status must be reviewed population by population; never assume that a claim applies across an island group or country.
+- Agencies should not be contacted with repetitive messages. Contact is useful when there is genuinely new research, data, technology, funding, or another materially useful development.
 
----
+## Public site and sources
 
-## 🛠️ What’s in This Repo?
+The public site lives in [WhyTrashEarth/Clutch0-site](https://github.com/WhyTrashEarth/Clutch0-site). Its research library links to primary agency material and peer-reviewed research, includes open questions, and distinguishes the project’s own statements from third-party evidence.
 
-| File / Folder | Description |
-|---------------|-------------|
-| `STRATEGY.md` | Tactical breakdown of the plan |
-| `regions/` | Regional intel (Taiwan, Florida, etc.) |
-| `tracking-tools/` | GPS tips, clutch mapping templates |
-| `letters/` | Outreach templates, contact tracking |
-| `media/` | Logo, infographics, shareables |
-| `field-notes/` | Observations, adaptations |
-| `CONTRIBUTING.md` | How to join or adapt the plan |
+## Licensing
 
----
+Unless a file says otherwise, Clutch0-authored repository material is licensed under [CC BY-SA 4.0](LICENSE.MD). Linked papers, government materials, images, and other third-party resources retain their own licenses and terms.
 
-## 🌍 Who Is This For?
+## The intended ending
 
-- Wildlife officers
-- Conservationists
-- NGO teams
-- Citizen scientists
-- Tactical environmentalists
-- Students looking for a real impact
-
-You don’t need to be a biologist. You just need to think like a strategist.
-
----
-
-## 📣 How You Can Help
-
-- 🧠 Read the strategy
-- 📨 Send it to any group working on iguanas or any other invasive species (we just started with iguanas)
-- 🥚 Identify nests or clutches in your area
-- 📍 Track and observe adult males
-- 💬 Translate it into your local language
-- 💻 Fork the repo and document your region
-
----
-
-## 🕶️ Who Made This?
-
-Clutch0 is an initiative by [@WhyTrashEarth](https://whytrashearth.com) and collaborators.  
-We are not here to protest. We are here to solve the problem.
-
-**No funding. No politics. Just results.**
-
----
-
-## 📜 License
-
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE.md) and is open to everyone.  
-Adapt, fork, translate, remix. Just don’t ignore the eggs.
+Clutch0 is not meant to exist forever. Its greatest success would be becoming unnecessary: invasive populations resolved, ecosystems recovering, and no meaningful information gap left for the project to fill.
